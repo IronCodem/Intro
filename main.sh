@@ -1,6 +1,4 @@
-teamName() {
-  echo "Repl-it-Coders/Shell-Script"
-}
+teamName="Repl-it-Coders/Shell-Script"
 
 echo "A $(teamName) Production"
 
